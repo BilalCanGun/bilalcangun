@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am a student at Kastamonu University. I am actively developing an application with react native.
+<br>Software Developer
 
 
 ## 🌐 Socials:

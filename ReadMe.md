@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there, I'm Bilal, a 4rd year computer engineering student at Kastamonu University with a strong interest in React and React Native technologies. I'm committed to staying current with the latest software trends and am always looking for ways to improve my skills. As a passionate developer, I'm dedicated to continuous learning and self-development, and I'm eager to grow and explore new challenges. Let's connect and collaborate!
+<br>
 
 
 ## 🌐 Socials:
